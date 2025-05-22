@@ -24,7 +24,7 @@ Um simples sistema de chat cliente-servidor em C, utilizando sockets TCP. Suport
 ├── servidor_Funcoes.c # Funções auxiliares do servidor
 ├── Includes/ # (No momento não há inclusões adicionais)
 ✍️ Autor
-Feito com dedicação por [Seu Nome Aqui].├── Makefile # Compilação automatizada
+Feito com dedicação por [Éden Zafire].├── Makefile # Compilação automatizada
 ├── README.md # Este arquivo
 └── LICENSE # Licença do projeto (ex: MIT) 
 
@@ -33,6 +33,7 @@ Feito com dedicação por [Seu Nome Aqui].├── Makefile # Compilação auto
 ## 🛠️ Compilação e Execução
 
 ### 🔧 Compilar
+
 Use o `make` para compilar o projeto:
 
 ```bash
